@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://fb.com/pheerapat chaon](https://www.facebook.com/profile.php?id=100011658428295)](https://www.facebook.com/profile.php?id=100011658428295)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pheerapat chaon" height="30" width="40" /></a>
+<a href="https://fb.com/Pheerapat Chaon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
